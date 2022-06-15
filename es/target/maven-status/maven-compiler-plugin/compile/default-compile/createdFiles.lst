@@ -1,0 +1,17 @@
+com\zeekr\es\entity\RosbagFragment.class
+com\zeekr\es\entity\ExtendJson.class
+com\zeekr\es\service\ElasticsearchService.class
+com\zeekr\es\EsApplication.class
+com\zeekr\es\config\ElasticsearchClientFactory.class
+com\zeekr\es\consts\DataManagerConstants.class
+com\zeekr\es\utils\ElasticsearchUtil.class
+com\zeekr\es\utils\EsUtil.class
+com\zeekr\es\entity\EsPage.class
+com\zeekr\es\entity\BagStoreInfo.class
+com\zeekr\es\config\ElasticSearchClient.class
+com\zeekr\es\entity\BaseEntity.class
+com\zeekr\es\service\impl\ElasticsearchServiceImpl.class
+com\zeekr\es\entity\Man.class
+com\zeekr\es\mapper\RosbagFragmentMapper.class
+com\zeekr\es\entity\RosbagBase.class
+com\zeekr\es\controller\EsController.class

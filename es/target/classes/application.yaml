@@ -1,0 +1,10 @@
+spring:
+  datasource:
+    driver-class-name: com.mysql.cj.jdbc.Driver
+    url: jdbc:mysql:///zeekr?serverTimezone=Asia/Shanghai
+    username: lzp
+    password: lizhipeng
+logging:
+  level:
+    org.elasticsearch.client: trace
+    org.springframework.data.elasticsearch.clent.WIRE: trace
